@@ -117,3 +117,15 @@ venv.bak/
 dmypy.json
 .bak
 
+# local model weights & caches
+pyramid_flow_model/
+*.safetensors
+*.pt
+*.bin
+
+# generated videos
+*.mp4
+*.mov
+
+# any other assets
+assets/
