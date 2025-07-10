@@ -1,6 +1,6 @@
 # ⚡ Pyramid Flow Video Generation (Fork)
 
-> **A training-efficient autoregressive video generation toolkit**  
+> **An autoregressive video generation toolkit**  
 > _Originally by [jy0205/Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow), this repo is a private fork with Mac-specific CPU support._
 
 ---
